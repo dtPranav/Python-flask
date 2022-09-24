@@ -1,0 +1,15 @@
+{
+    "params": {
+        "name": "codingthunder",
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "gmail-id": "pra.nan786@gmail.com",
+        "gmail-pass": "sybolkohmdcwfhsj",
+        "about": "Hi there I am learning flask and  I am creating this project",
+        "no_of_post": 4,
+        "admin_user": "pranav@123",
+        "password": "hello",
+        "upload_location": "D:\\flask\\cwh_flask\\static"
+    }
+}
